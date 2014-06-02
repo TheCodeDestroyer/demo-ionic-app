@@ -1,0 +1,9 @@
+<nav class="bar bar-tab bar-standard">
+    <a ng-repeat="tab in tabs" class="tab-item" ng-class="checkIfActive(tab.htmlUri)" ng-click="changeView(tab.htmlUri)">
+        <span class="icon {{ tab.icon }}"></span>
+        <span class="tab-label">{{ tab.title | translate }}</span>
+    </a>
+</nav>
+<section class="content" ng-class="direction" ng-swipe-left="swipe(1)" ng-swipe-right="swipe(0)">
+    <div class="" ng-include="templateUri"></div>
+</section>

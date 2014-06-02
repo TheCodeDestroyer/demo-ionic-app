@@ -1,0 +1,77 @@
+﻿{
+    "general":
+    {
+        "OK": "OK",
+        "CANCEL": "Cancel",
+        "ADD": "Add",
+        "SEARCH": "Search",
+        "CLEAR": "Clear",
+        "ERROR_TITLE": "Error",
+        "ERROR_MESSAGE": "There was an error. Please contact technical support.",
+        "days":{
+            "1":"Monday",
+            "2":"Tuesday",
+            "3":"Wednesday",
+            "4":"Thursday",
+            "5":"Friday",
+            "6":"Saturday",
+            "7":"Sunday"
+        },
+        "languages":{
+            "ENGLISH": "English",
+            "SLOVENIAN": "Slovenian"
+        }
+    },
+    "login":{
+        "LOGIN": "Log In",
+        "SETTINGS": "Settings",
+        "CLOSE": "Close",
+        "USERNAME": "USERNAME",
+        "PASSWORD": "PASSWORD"
+    },
+    "tabs":{
+        "general": {
+            "HOME": "HOME",
+            "SETTINGS": "SETTINGS"
+        }
+    },
+    "muscle_groups":{
+        "SHOULDERS": "SHOULDERS",
+        "CHEST": "CHEST",
+        "BACK": "BACK",
+        "TRICEPS": "TRICEPS",
+        "BICEPS": "BICEPS",
+        "ABS": "ABS"
+    },
+    "muscle_workouts":{
+        "shoulder": {
+            "DUMBBELL_SIDE_RAISES": "Dumbbell Side Raises",
+            "SHRUGS_WITH_DUMBBELLS": "Shrugs with Dumbbells",
+            "SHOULDER_PRESS": "Shoulder Press",
+            "DUMBBELL_FORWARD_RAISES": "Dumbbell Forward Raises"
+        },
+        "chest": {
+            "BARBELL_BENCH_PRESS": "Barbell Bench Press",
+            "DUMBBELL_BENCH_PRESS": "Dumbbell Bench Press",
+            "DUMBBELL_BUTTERFLY": "Dumbbell Butterfly"
+        },
+        "back": {
+            "DEADLIFT": "Deadlift",
+            "ONE_ARM_DUMBBELL_ROW": "One Arm Dumbbell Row",
+            "LAT_PULLDOWN": "Lat Pulldown"
+        },
+        "triceps": {
+            "DUMBBELL_TRICEPS_KICKBACK": "Dumbbell Triceps Kickback",
+            "DIPS": "Dips"
+        },
+        "biceps": {
+            "BICEPS_CURLS": "Bicep Curls",
+            "DUMBBELLS_CONCENTRATION_CURL": "Dumbbells Concentration Curl",
+            "DUMBBELL_HAMMER_CURLS": "Dumbbell Hammer Curls",
+            "CHAIR_DIPS": "Chair Dips"
+        },
+        "abs": {
+
+        }
+    }
+}
