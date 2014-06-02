@@ -2,8 +2,8 @@ angular.module('wp.controllers').controller('indMainCtrl', ['$scope', function($
     'use strict';
 
     $scope.tabs = [
-        { title: 'HOME', htmlUri: 'js/index/partials/indHome.html', icon: 'icon-home' },
-        { title: 'SETTINGS', htmlUri: 'js/index/partials/indSetting.html', icon: 'icon-gear' }
+        { title: 'tabs.general.HOME', htmlUri: 'js/index/partials/indHome.html', icon: 'icon-home' },
+        { title: 'tabs.general.SETTINGS', htmlUri: 'js/index/partials/indSetting.html', icon: 'icon-gear' }
     ];
 
     $scope.changeView = privateChangeView;

@@ -44,7 +44,7 @@
         "ABS": "ABS"
     },
     "muscle_workouts":{
-        "shoulder": {
+        "shoulders": {
             "DUMBBELL_SIDE_RAISES": "Dumbbell Side Raises",
             "SHRUGS_WITH_DUMBBELLS": "Shrugs with Dumbbells",
             "SHOULDER_PRESS": "Shoulder Press",
@@ -67,8 +67,7 @@
         "biceps": {
             "BICEPS_CURLS": "Bicep Curls",
             "DUMBBELLS_CONCENTRATION_CURL": "Dumbbells Concentration Curl",
-            "DUMBBELL_HAMMER_CURLS": "Dumbbell Hammer Curls",
-            "CHAIR_DIPS": "Chair Dips"
+            "DUMBBELL_HAMMER_CURLS": "Dumbbell Hammer Curls"
         },
         "abs": {
 

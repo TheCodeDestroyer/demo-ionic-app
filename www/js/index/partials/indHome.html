@@ -5,7 +5,7 @@
                 <span ng-hide="workout.hideWeightAndActions" class="badge">{{ workout.weight }} kg</span>
                 <button ng-hide="workout.hideWeightAndActions" class="icon icon-up" ng-click="increaseWeight($index)"></button>
                 <button ng-hide="workout.hideWeightAndActions" class="icon icon-down" ng-click="decreaseWeight($index)"></button>
-                {{ workout.title }}
+                {{ workout.title | translate }}
             </a>
         </li>
     </ul>
