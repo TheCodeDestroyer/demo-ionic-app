@@ -20,8 +20,7 @@ angular.module('wp', [
         'use strict';
 
         $translateProvider.useLocalStorage();
-//        $translateProvider.preferredLanguage('en-US');
-        $translateProvider.preferredLanguage('sl-SI');
+        $translateProvider.preferredLanguage('en-US');
         $translateProvider.useStaticFilesLoader({
             prefix: 'i18n/',
             suffix: '.json'
