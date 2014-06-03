@@ -4,7 +4,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.tcd.workoutplanner"
-        version   = "1.0.0">
+        version   = "0.1.0">
 
     <name>Workout Planner</name>
 
@@ -12,7 +12,7 @@
         Workout Planner application that helps zou plan workout activitz
     </description>
 
-    <author href="http://phonegap.com" email="the.code.destroyer@gmail.com">
+    <author href="https://github.com/TheCodeDestroyer" email="the.code.destroyer@gmail.com">
         TheCodeDestroyer
     </author>
 
