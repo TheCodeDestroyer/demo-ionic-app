@@ -20,7 +20,6 @@ angular.module('wp.controllers').controller('indMainCtrl', ['$scope', function($
 
         if (currentTabIndex > -1 && currentTabIndex <= ($scope.tabs.length - 1)) {
             $scope.templateUri =   $scope.tabs[currentTabIndex].htmlUri;
-            $scope.subHeaderShown = $scope.templateUri.indexOf('indCustomers.html') > -1;
         }
     };
 
