@@ -1,0 +1,20 @@
+{
+  "name": "arete",
+  "version": "0.6.0",
+  "description": "Workout planner mobile app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheCodeDestroyer/arete.git"
+  },
+  "author": "TheCodeDestroyer <the.code.destroyer@gmail.com>",
+  "license": " ",
+  "bugs": {
+    "url": "https://github.com/TheCodeDestroyer/arete/issues"
+  },
+  "homepage": "https://github.com/TheCodeDestroyer/arete",
+  "devDependencies": {
+    "bower": "^1.3.5",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13"
+  }
+}
