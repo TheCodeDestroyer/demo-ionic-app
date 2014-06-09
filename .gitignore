@@ -82,3 +82,5 @@ IOS/www/
 
 # OTHER
 platforms/android/*
+node_modules/*
+www/lib/*
