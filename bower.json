@@ -13,5 +13,14 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "devDependencies": {
+    "angular": "~1.2.17",
+    "ionic": "~0.9.27"
+  },
+  "resolutions": {
+    "angular": "~1.2.17",
+    "ionic": "1.0.0-beta.6",
+    "angular-ui-router": "0.2.10"
+  }
 }
