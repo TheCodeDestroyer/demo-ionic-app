@@ -1,3 +1,3 @@
-# Workout mobile app
+# Ironic sample app
 
-Mobile application which helps you organize your workout schedule
+Mobile Sample application made with Ionic, Cordova and Angular
