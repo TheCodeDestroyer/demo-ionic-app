@@ -1,11 +1,11 @@
 {
-  "name": "arete",
+  "name": "Ionic Sample",
   "version": "0.6.0",
-  "homepage": "https://github.com/TheCodeDestroyer/arete",
+  "homepage": "https://github.com/TheCodeDestroyer/ionic-sample",
   "authors": [
     "The Code Destroyer <the.code.destroyer@gmail.com>"
   ],
-  "description": "Mobile application which helps you organize your workout schedule",
+  "description": "Mobile Sample application made with Ionic, Cordova and Angular",
   "private": true,
   "ignore": [
     "**/.*",
